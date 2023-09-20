@@ -1,0 +1,11 @@
+.product__select-wrapper::before {
+  content: "";
+  position: absolute;
+  background-image: url("../../../images/arrow.svg");
+  top: 57%;
+  right: 9px;
+  transform: translateY(-50%);
+  display: block;
+  width: 19px;
+  height: 9px;
+}

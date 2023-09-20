@@ -1,0 +1,7 @@
+.product__image-mini-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 95%;
+}

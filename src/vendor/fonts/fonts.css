@@ -1,0 +1,27 @@
+@font-face {
+    src: url(./gotham-pro/gothampro_light.ttf) format("ttf");
+    font-family: "Gotham-Pro";
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  @font-face {
+    src: url(./gotham-pro/gothampro_medium.ttf) format("ttf");
+    font-family: "Gotham-Pro";
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  @font-face {
+    src: url(./gotham-pro/gothampro_bold.ttf) format("ttf");
+    font-family: "Gotham-Pro";
+    font-style: normal;
+    font-weight: 900;
+  }
+
+  @font-face {
+    src: url(./sf-pro-display/SFProDisplay-Regular.ttf) format("ttf");
+    font-family: "SF-Pro-Display";
+    font-style: normal;
+    font-weight: 400;
+  }

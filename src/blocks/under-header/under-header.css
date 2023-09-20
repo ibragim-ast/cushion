@@ -1,0 +1,8 @@
+.under-header {
+    height: 92px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFD1AC;
+    text-align: center;
+    border: 1px solid #000;
+}

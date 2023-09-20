@@ -1,0 +1,11 @@
+.banner {
+  background-image: url("../../images/banner.png");
+  width: 390px;
+  height: 281px;
+  background-size: 150%;
+  background-position: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+}

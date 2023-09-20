@@ -1,0 +1,8 @@
+.product__info {
+  width: 92%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  margin-top: 17px;
+}

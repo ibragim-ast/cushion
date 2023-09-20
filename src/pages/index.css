@@ -1,0 +1,40 @@
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts/fonts.css");
+@import url("../blocks/page/page.css");
+/* header */
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__text/header__text.css");
+/* under-header */
+@import url("../blocks/under-header/under-header.css");
+@import url("../blocks/under-header/__logo-container/under-header__logo-container.css");
+@import url("../blocks/under-header/__logo/under-header__logo.css");
+@import url("../blocks/under-header/__text/under-header__text.css");
+/* banner */
+@import url("../blocks/banner/banner.css");
+@import url("../blocks/banner/__timer-container/banner__timer-container.css");
+@import url("../blocks/banner/__offer/banner__offer.css");
+@import url("../blocks/banner/__timer/banner__timer.css");
+@import url("../blocks/banner/__price-container/banner__price-container.css");
+@import url("../blocks/banner/__price/banner__price.css");
+@import url("../blocks/banner/__sale/banner__sale.css");
+/* product */
+@import url("../blocks/product/product.css");
+@import url("../blocks/product/__label/product__label.css");
+@import url("../blocks/product/__evaluation/product__evaluation.css");
+@import url("../blocks/product/__logo/product__logo.css");
+@import url("../blocks/product/__best-selling-label/product__best-selling-label.css");
+@import url("../blocks/product/__title/product__title.css");
+@import url("../blocks/product/__image/product__image.css");
+@import url("../blocks/product/__image-mini-container/product__image-mini-container.css");
+@import url("../blocks/product/__image-mini/product__image-mini.css");
+@import url("../blocks/product/__info/product__info.css");
+@import url("../blocks/product/__info-text/product__info-text.css");
+@import url("../blocks/product/__info-text/_bold/product__info-text_bold.css");
+@import url("../blocks/product/__stars/product__stars.css");
+@import url("../blocks/product/__choose-forms/product__choose-forms.css");
+@import url("../blocks/product/__choose-color-form/product__choose-color-form.css");
+@import url("../blocks/product/__choose-size-form/product__choose-size-form.css");
+@import url("../blocks/product/__choose-label/product__choose-label.css");
+@import url("../blocks/product/__select-wrapper/product__select-wrapper.css");
+@import url("../blocks/product/__choose-select/product__choose-select.css");
+@import url("../blocks/product/__buy-btn/product__buy-btn.css");

@@ -1,0 +1,17 @@
+.under-header__logo-container {
+    position: relative;
+    display: inline-block;
+    height: 56px;
+}
+
+.under-header__logo-container::after {
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: #F19D2F;
+    border-radius: 50%;
+    top: 26px;
+    left: 234px;
+    z-index: 1;
+}

@@ -1,0 +1,11 @@
+.product__best-selling-label {
+  color: #37d997;
+  text-align: right;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  text-decoration-line: underline;
+  margin: 0;
+}

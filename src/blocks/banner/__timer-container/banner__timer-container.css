@@ -1,0 +1,12 @@
+.banner__timer-container {
+  width: 103px;
+  height: 58px;
+  background-color: #f19d2f;
+  border-radius: 7px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 16px 13px;
+}

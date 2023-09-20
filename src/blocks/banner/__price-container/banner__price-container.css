@@ -1,0 +1,13 @@
+.banner__price-container {
+  width: 116px;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  background-color: #37d997;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 13px 16px 0;
+}

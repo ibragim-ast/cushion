@@ -1,0 +1,8 @@
+.product__choose-color-form {
+  display: flex;
+  flex-direction: column;
+  width: 170px;
+  height: 64px;
+  text-align: center;
+  position: relative;
+}

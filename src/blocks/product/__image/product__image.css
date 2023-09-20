@@ -1,0 +1,7 @@
+.product__image {
+  display: block;
+  width: 358px;
+  height: 232px;
+  margin: 18px auto 21px;
+  transition: opacity 0.3s ease-in-out;
+}

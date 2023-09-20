@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./pages/index.css" />
+  </head>
+
+  <body class="page">
+    <header class="header">
+      <p class="header__text">
+        🇿🇦 SPECIAL OFFER + FREE DELIVERY 2-4 DAYS IN SA 🇿🇦
+      </p>
+    </header>
+    <section class="under-header">
+      <div class="under-header__logo-container">
+        <img class="under-header__logo" src="./images/logo.png" alt="логотип" />
+      </div>
+      <p class="under-header__text">orthopedic slippers</p>
+    </section>
+    <section class="banner">
+      <div class="banner__timer-container">
+        <span class="banner__offer">Limited offer</span>
+        <span class="banner__timer">04:51:16</span>
+      </div>
+      <div class="banner__price-container">
+        <span class="banner__price">R 250.00</span>
+        <span class="banner__sale">R 160.00</span>
+      </div>
+    </section>
+    <section class="product">
+      <div class="product__label">
+        <p class="product__evaluation">Excellent 4.8/5</p>
+        <img class="product__logo" src="./images/product__logo.svg" alt="" />
+        <p class="product__best-selling-label">best selling</p>
+      </div>
+      <h2 class="product__title">Orthopedic Slippers</h2>
+      <img class="product__image" src="./images/black.png" />
+      <div class="product__image-mini-container">
+        <img
+          class="product__image-mini"
+          src="./images/black.png"
+          onClick="changeImage(this)"
+        />
+        <img
+          class="product__image-mini"
+          src="./images/orange.png"
+          onClick="changeImage(this)"
+        />
+        <img
+          class="product__image-mini"
+          src="./images/pink.png"
+          onClick="changeImage(this)"
+        />
+        <img
+          class="product__image-mini"
+          src="./images/yellow.png"
+          onClick="changeImage(this)"
+        />
+      </div>
+      <div class="product__info">
+        <p class="product__info-text">
+          <span class="product__info-text_bold">Fast Delivery:</span>2-4 days
+          from SA 🇿🇦
+        </p>
+        <p class="product__info-text">
+          <span class="product__info-text_bold">In Stock:</span> Shipping from
+          Johannesburg 🇿🇦
+        </p>
+        <p class="product__stars">
+          <img src="./images/stars.png" />
+          <img src="./images/stars.png" />
+          <img src="./images/stars.png" />
+          <img src="./images/stars.png" />
+          <img src="./images/stars.png" />
+          (10)
+        </p>
+        <div class="product__choose-forms">
+          <form class="product__choose-color-form">
+            <label class="product__choose-label" for="color">color</label>
+            <div class="product__select-wrapper">
+              <select class="product__choose-select" id="color" name="color">
+                <option value="1">Black</option>
+                <option value="2">Orange</option>
+                <option value="3">Pink</option>
+                <option value="4">Yellow</option>
+              </select>
+            </div>
+          </form>
+          <form class="product__choose-color-form">
+            <label class="product__choose-label" for="size">size</label>
+            <div class="product__select-wrapper">
+              <select class="product__choose-select" id="size" name="size">
+                <option value="1">2</option>
+                <option value="2">3</option>
+                <option value="3">4</option>
+                <option value="4">5</option>
+              </select>
+            </div>
+          </form>
+        </div>
+      </div>
+      <a class="product__buy-btn" href="https://www.youtube.com/">buy now</a>
+    </section>
+
+    <script src="./pages/index.js"></script>
+  </body>
+</html>

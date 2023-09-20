@@ -1,0 +1,8 @@
+.product__title {
+  font-size: 19px;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin: 17px 0 0 9px;
+}
